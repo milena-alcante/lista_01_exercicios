@@ -12,3 +12,4 @@ C:\Users\milena.alaciole\source\repos\lista_01_exercicios\lista_01_exercicios\li
 C:\Users\milena.alaciole\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01\obj\Debug\net8.0\lista_01.pdb
 C:\Users\milena.alaciole\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01\obj\Debug\net8.0\lista_01.genruntimeconfig.cache
 C:\Users\milena.alaciole\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01\obj\Debug\net8.0\ref\lista_01.dll
+C:\Users\milena.alaciole\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01\obj\Debug\net8.0\lista_01.sourcelink.json

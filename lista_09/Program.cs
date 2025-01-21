@@ -8,3 +8,39 @@ erro.
 o Exemplo de Saída: "Domingo", "Segunda-feira", etc., ou "Número inválido. 
 Digite um número de 1 a 7."
   */
+Console.WriteLine("Insira um número de 1 a 7");
+int Dia = int.Parse(Console.ReadLine());
+
+
+if (Dia == 1)
+{
+    Console.WriteLine("Domingo");
+}
+else if (Dia == 2)
+{
+    Console.WriteLine("Segunda-feira.");
+}
+else if (Dia == 3)
+{
+    Console.WriteLine("Terça-feira.");
+}
+else if (Dia == 4)
+{
+    Console.WriteLine("Quarta-feira.");
+}
+else if (Dia == 5)
+{
+    Console.WriteLine("Quinta-feira.");
+}
+else if (Dia == 6)
+{
+    Console.WriteLine("Sexta-feira.");
+}
+else if (Dia == 7)
+{
+    Console.WriteLine("Sábado.");
+}
+else
+{
+    Console.WriteLine("Dia invalido.");
+}

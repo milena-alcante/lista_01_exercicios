@@ -5,3 +5,15 @@ Objetivo: Pratique o uso do operador % (módulo) e estruturas condicionais simpl
 Descrição: Crie um programa que solicite que o usuário digite um número inteiro. O programa deve verificar se o número é par ou ímpar. Use a condição if para determinar o resultado e exibir uma mensagem apropriada. 
 Exemplo de saída: "O número é par." ou "O número é ímpar".
   */
+
+Console.WriteLine("Digite um numero");
+
+int numero = int.Parse(Console.ReadLine());
+
+if (numero % 2 == 0)
+{
+    Console.WriteLine("Numero Par");
+} else
+{
+    Console.WriteLine("Numero Impar");
+}

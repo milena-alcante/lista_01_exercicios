@@ -8,3 +8,17 @@ correspondente.
 o Exemplo de Saída: "O número é positivo.", "O número é negativo." ou "O 
 número é zero."
   */
+Console.WriteLine("Digite um número");
+int numero = int.Parse(Console.ReadLine());
+if (numero > 0)
+{
+    Console.WriteLine("Maior que zero");
+}
+else if (numero == 0)
+{
+    Console.WriteLine("Zero");
+}
+else if (numero < 0)
+{
+    Console.WriteLine("Número negativo");
+}
