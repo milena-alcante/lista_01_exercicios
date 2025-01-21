@@ -1,0 +1,15 @@
+C:\Users\milena.alaciole\Documents\lista_01_exercicios\teste_github\bin\Debug\net8.0\teste_github.exe
+C:\Users\milena.alaciole\Documents\lista_01_exercicios\teste_github\bin\Debug\net8.0\teste_github.deps.json
+C:\Users\milena.alaciole\Documents\lista_01_exercicios\teste_github\bin\Debug\net8.0\teste_github.runtimeconfig.json
+C:\Users\milena.alaciole\Documents\lista_01_exercicios\teste_github\bin\Debug\net8.0\teste_github.dll
+C:\Users\milena.alaciole\Documents\lista_01_exercicios\teste_github\bin\Debug\net8.0\teste_github.pdb
+C:\Users\milena.alaciole\Documents\lista_01_exercicios\teste_github\obj\Debug\net8.0\teste_github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milena.alaciole\Documents\lista_01_exercicios\teste_github\obj\Debug\net8.0\teste_github.AssemblyInfoInputs.cache
+C:\Users\milena.alaciole\Documents\lista_01_exercicios\teste_github\obj\Debug\net8.0\teste_github.AssemblyInfo.cs
+C:\Users\milena.alaciole\Documents\lista_01_exercicios\teste_github\obj\Debug\net8.0\teste_github.csproj.CoreCompileInputs.cache
+C:\Users\milena.alaciole\Documents\lista_01_exercicios\teste_github\obj\Debug\net8.0\teste_github.sourcelink.json
+C:\Users\milena.alaciole\Documents\lista_01_exercicios\teste_github\obj\Debug\net8.0\teste_github.dll
+C:\Users\milena.alaciole\Documents\lista_01_exercicios\teste_github\obj\Debug\net8.0\refint\teste_github.dll
+C:\Users\milena.alaciole\Documents\lista_01_exercicios\teste_github\obj\Debug\net8.0\teste_github.pdb
+C:\Users\milena.alaciole\Documents\lista_01_exercicios\teste_github\obj\Debug\net8.0\teste_github.genruntimeconfig.cache
+C:\Users\milena.alaciole\Documents\lista_01_exercicios\teste_github\obj\Debug\net8.0\ref\teste_github.dll
