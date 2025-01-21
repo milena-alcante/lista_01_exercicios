@@ -7,11 +7,16 @@ no valor e mostre o valor final. Caso contrário, exiba o valor original.
 o Exemplo de Saída: "Valor com desconto: [valor final]." ou "Valor original: 
 [valor]
   */
-Console.WriteLine("Digite o valor da compra:");
-double valor - double.Parse(Console.ReadLine());
-if (valor > 100)
+Console.WriteLine("Digite o valor da compra");
+double valor = double.Parse(Console.ReadLine());
+if (valor >= 100)
 {
-    double desconto
+    double desconto = valor * 0.10;
+    double valorFinal = valor - desconto;
+    Console.WriteLine("Valor com descontos: " + valorFinal);
 }
-
+else
+{
+    Console.WriteLine("Valor original): " + valor);
+}
 
